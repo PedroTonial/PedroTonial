@@ -8,14 +8,14 @@ Furthermore, I am constantly expanding my skill set to become a versatile profes
 - 🚀 Passionate for problem-solving and always ready to tackle challenges effectively.
 - 💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations.
 - 🌐 With fluency in English, I can effectively communicate in a global context. <br><br>
-  <img align="center" alt="ptr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<hr>
+<div>
+   <img align="center" alt="ptr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ptr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ptr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ptr-JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 </div>
-  
-  ##
- 
+  <hr>
 <div> 
 
   <a href="https://instagram.com/pedro.tonial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
