@@ -7,7 +7,7 @@ Furthermore, I am constantly expanding my skill set to become a versatile profes
 - 👨‍💼 24 years old, a dedicated and multifaceted professional.
 - 🚀 Passionate for problem-solving and always ready to tackle challenges effectively.
 - 💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations.
-- 🌐 With fluency in English, I can effectively communicate in a global context. <br><br>
+- 🌐 With fluency in English, I can effectively communicate in a global context. <br>
 <hr>
 <div>
    <img align="center" alt="ptr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,6 @@ Furthermore, I am constantly expanding my skill set to become a versatile profes
   <a href="https://instagram.com/pedro.tonial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ptpasinato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrotonial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTonial)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTonial)](https://github.com/anuraghazra/github-readme-stats)
+
