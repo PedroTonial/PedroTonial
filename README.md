@@ -14,6 +14,7 @@ Furthermore, I am constantly expanding my skill set to become a versatile profes
   <img align="center" alt="ptr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ptr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ptr-JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+   <img align="center" alt="ptr-JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
 </div>
   <hr>
 <div> 
