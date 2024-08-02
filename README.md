@@ -2,6 +2,7 @@
 Hello, I'm Pedro! <br>
 Undergraduate _Software Engineer_ at PUCRS who is embarking on an exciting learning journey in _FullStack development_ with JavaScript and Java.<br>
 Furthermore, I am constantly expanding my skill set to become a versatile professional ready for the challenges of the tech world.
+At the moment intern at TIC em Trilhas, scholarship as TI Monitor for POO and Versioning classes.
 
 ## Who Am I?
 - 👨‍💼 24 years old, a dedicated and multifaceted professional.
